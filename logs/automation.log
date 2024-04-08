@@ -1,0 +1,7 @@
+14:13:36.168 [main] INFO  factory.BaseClass - driver opens.. 
+14:13:52.568 [main] INFO  factory.BaseClass - User enters valid input in searchbox.. 
+14:13:55.218 [main] INFO  factory.BaseClass - User closes the popup.. 
+14:13:58.322 [main] INFO  factory.BaseClass -  User selects category.. 
+14:13:58.968 [main] INFO  factory.BaseClass - User set price.. 
+14:13:59.823 [main] INFO  factory.BaseClass - User Extracts first three items name and price.. 
+14:14:01.162 [main] INFO  factory.BaseClass - Driver closed.. 
